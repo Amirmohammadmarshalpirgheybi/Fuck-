@@ -6,6 +6,6 @@ public class Amir {
         String[] ali=new String[6];
         ali[5]="GO to hell";
         System.out.println("I am no teady");
-
+        System.out.println("WHo are you");
     }
 }
